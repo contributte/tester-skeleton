@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+sh ../vendor/bin/tester Tests -s -j 40 -log tester.log $@
+rm "./tmp" -f -R
