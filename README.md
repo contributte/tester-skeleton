@@ -1,6 +1,6 @@
 # Nette\Tester sandbox
 
-[![Downloads this Month](https://img.shields.io/packagist/dm/minetro/tester-sandbox.svg?style=flat-square)](https://packagist.org/packages/minetro/tester-sandbox)
+[![Downloads total](https://img.shields.io/packagist/dt/minetro/tester-sandbox.svg?style=flat-square)](https://packagist.org/packages/minetro/tester-sandbox)
 [![Latest stable](https://img.shields.io/packagist/v/minetro/tester-sandbox.svg?style=flat-square)](https://packagist.org/packages/minetro/tester-sandbox)
 
 Prepared tester tools.
