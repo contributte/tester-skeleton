@@ -13,12 +13,12 @@ Prepared tester tools.
 
 
 # Dev
-```sh
-$ composer create-project --prefer-dist minetro/tester-sandbox -s dev
+```bash
+composer create-project --prefer-dist minetro/tester-sandbox -s dev
 ```
 
 # Stable
-```sh
-$ composer create-project --prefer-dist minetro/tester-sandbox:~1.0 
+```bash
+composer create-project --prefer-dist minetro/tester-sandbox:~1.0 
 ```
 
