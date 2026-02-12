@@ -26,7 +26,7 @@ Main goal is to show how to test [Nette](https://nette.org) components.
 
 ## Installation
 
-You will need `PHP 8.1+` and [Composer](https://getcomposer.org/).
+You will need `PHP 8.4+` and [Composer](https://getcomposer.org/).
 
 Create project using composer.
 
